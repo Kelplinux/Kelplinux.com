@@ -42,6 +42,14 @@ We welcome contributions! Here’s how you can help:
    ```
 5. Open a Pull Request.
 
+## Theme
+The website theme is styled with a clean and simple layout, featuring:
+- **Arial Font**: Ensures readability and consistency.
+- **Green Background**: Represents growth and sustainability.
+- **Centered Hero Section**: Highlights the welcome message.
+
+Feel free to customize the theme by modifying the `styles.css` file or embedded styles in the `index.html` file.
+
 ## Contact
 For inquiries or support, email us at: [kelplinux@gmail.com](mailto:kelplinux@gmail.com)
 
